@@ -1,1 +1,1 @@
-machine learning, automation, and web development
+machine learning, automation, and software engineering. Currently exploring causal ML
