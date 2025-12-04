@@ -1,1 +1,1 @@
-machine learning, automation, and software engineering. Currently exploring causal ML
+game theory and game engine algorithms are pretty fun!!
